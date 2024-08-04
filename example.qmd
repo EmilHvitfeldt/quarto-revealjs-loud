@@ -1,0 +1,25 @@
+---
+title: "Quarto-revealjs-loud Example"
+format:
+  revealjs: default
+revealjs-plugins:
+  - loud
+---
+
+# In the morning
+
+## Getting up
+
+## Breakfast
+
+# In the evening
+
+## Dinner
+
+## Going to sleep
+
+##
+
+Two lines of text
+
+one after another
